@@ -1,3 +1,4 @@
+# Entry: writes the 254-character plan to entry.txt.
 """Entry program for "The plan make.fun will carry out in public".
 
 Writes one plan text (254 characters) to the output directory.
